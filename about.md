@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Thanks for visiting. More soon.
+Thanks for visiting. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More soon.
 
 ### Contact me
 
