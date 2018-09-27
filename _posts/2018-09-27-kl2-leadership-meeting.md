@@ -7,8 +7,6 @@ categories:
   - meetings
   - kl2
 ---
-## Notes from this morning's meeting with KL2 leadership.
-
 In attendance: Dr. Tsevat, Dr. Dougherty, and Ms. Wray
 
 I brought a printout of [my Aim 2 results so far](https://rpubs.com/bokov/kidneycancer) and [a progress report](/files/180926_bokov_kl2leadership_mtg.docx).
