@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First Post
+title: How it all began.
 published: true
 ---
 
-Hello. This will be the site where I might be posting live updates of my work. Once time permits me to figure out the best way for me to use this.
+Here is the [proposal](/files/Bokov_KL2_2018.pdf) on the basis of which was was awarded this KL2.
